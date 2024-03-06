@@ -1,0 +1,1 @@
+[GetFiles] UnauthorizedAccessException Access to the path 'C:\$Recycle.Bin\S-1-5-18' is denied.

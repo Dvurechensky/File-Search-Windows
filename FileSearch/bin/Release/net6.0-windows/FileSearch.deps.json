@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FileSearch/1.0.0": {
+        "dependencies": {
+          "Ionic.Zip": "1.9.1.8",
+          "System.Threading.Tasks.Dataflow": "8.0.0"
+        },
+        "runtime": {
+          "FileSearch.dll": {}
+        }
+      },
+      "Ionic.Zip/1.9.1.8": {
+        "runtime": {
+          "lib/Ionic.Zip.dll": {
+            "assemblyVersion": "1.9.1.8",
+            "fileVersion": "1.9.1.8"
+          }
+        }
+      },
+      "System.Threading.Tasks.Dataflow/8.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Threading.Tasks.Dataflow.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ionic.Zip/1.9.1.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E77NU0+mXFsiJG/CikkINVD/2ugIgjqRZf41pixpAArRzOUrn/2gCL4G2PBREvRVOy+wU8ZbG/UBLcH4Tkw1gg==",
+      "path": "ionic.zip/1.9.1.8",
+      "hashPath": "ionic.zip.1.9.1.8.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Dataflow/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7V0I8tPa9V7UxMx/+7DIwkhls5ouaEMQx6l/GwGm1Y8kJQ61On9B/PxCXFLbgu5/C47g0BP2CUYs+nMv1+Oaqw==",
+      "path": "system.threading.tasks.dataflow/8.0.0",
+      "hashPath": "system.threading.tasks.dataflow.8.0.0.nupkg.sha512"
+    }
+  }
+}

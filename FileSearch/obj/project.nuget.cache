@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "mnBBZRGxpyxmLJd6Ll6ANkMhj5ZFQf0GrD5b4KXPb6Yfe0LrU/AYU5wnkiTRHwP3M4eJMjAjSrz7URNftsYW1A==",
+  "success": true,
+  "projectFilePath": "D:\\FileSearch\\FileSearch\\FileSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rota\\.nuget\\packages\\ionic.zip\\1.9.1.8\\ionic.zip.1.9.1.8.nupkg.sha512",
+    "C:\\Users\\Rota\\.nuget\\packages\\system.threading.tasks.dataflow\\8.0.0\\system.threading.tasks.dataflow.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Ionic.Zip 1.9.1.8\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Ionic.Zip",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
